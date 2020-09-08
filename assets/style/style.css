@@ -1,0 +1,262 @@
+*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+	border: 0;
+}
+
+html, body, .container, div.wrapper{
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	height: 100%;
+}
+
+/*--------header-------*/
+header{
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 5.5rem;
+	background-color: white;
+	border-bottom: 1px solid #eeeeee;
+}
+
+header h2{
+	line-height: 2;
+	color: #a6a6a6;
+	font-weight: normal;
+}
+
+header nav{
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+header a, header nav div{
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+header nav div{
+	padding: 1em 1em;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	height: 100%;
+}
+
+header nav div:hover, header a:hover{
+	background-color: #ef5f49;
+}
+
+header nav div img{
+	height: 59%;
+}
+
+header img{
+	height: 100%;
+}
+
+/* main */
+
+section.main{
+	padding: 5.5rem 0 0 0;
+	overflow: auto;
+	height: 100%;
+}
+
+/* home welcome*/
+
+section#welcome{
+	text-align: center;
+	background:linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../img/pexels-photo-585004.jpeg);
+	background-size: cover;
+	display:flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+section#welcome h1{
+	font-size: 5em;
+	font-weight: normal;
+	color: white;
+	margin: 0;
+}
+
+section#welcome h2{
+	margin: 0;
+	color: white;
+	font-weight: bolder;
+	font-size: 5em;
+}
+
+section#welcome div{
+	margin: 3em 0 0;
+	display: flex;
+	justify-content: center;
+}
+
+.home-selectButton{
+	min-width: 15em;
+	width: 15%;
+	border: 1px solid #efefef;
+	padding: 2em;
+	background-color: white;
+}
+
+
+/*browse module*/
+section.browseModule{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+section.browseModule h1{
+	padding-top: 2em;
+	margin: 0;
+	font-size: 1.5em;
+}
+
+section.browseModule h3{
+	font-size: 2em;
+}
+
+section.browseModule .lessonList details, section.browseModule .lessonList details ul li{
+	border: 1px solid #E9E9E9;
+	list-style:none;
+}
+
+section.browseModule .lessonList details ul li, section.browseModule .lessonList details summary{
+	padding: 1em 7em;
+	width: 100%
+}
+
+details summary:focus{
+	outline: none;
+}
+
+section.browseModule .lessonList details ul{
+	width: 106%;
+	margin-left: -6%;
+}
+
+
+/*lesson interface*/
+.lessonInterface{
+	display: flex;
+}
+
+.lessonInterfaceLeft{
+	width: 40%;
+	height: 100%;
+	padding: 1em 4em 0;
+	background-color: white;
+	overflow: scroll;
+	padding-bottom: 5em;
+}
+.lessonInterfaceLeft h1{
+	color: #044279;
+	font-size: 1.8em;
+	font-weight: bold;
+	padding-bottom: .5em;
+	box-sizing: border-box;
+}
+
+.lessonInterfaceLeft h1 span.underline{
+	border-bottom: 5px solid #ef5f49;
+	padding-bottom: .5em;
+	box-sizing: border-box;
+}
+
+.lessonInterfaceLeft p{
+	color: #81858a;
+	line-height: 1.6;
+	font-weight: lighter;
+}
+
+
+
+iframe{
+	display: block;
+}
+
+.lessonControls{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width:40%;
+	display: flex;
+	background-color: white;
+	justify-content: space-between;
+	border-top: 1px solid #eeeeee;
+	padding: 1em 4em;
+}
+
+.lessonControls button{
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	font-weight: normal;
+	font-size: 1em;
+	padding: .5em 0;
+	width: 8em;
+}
+
+.lessonControls button.lessonPrevious{
+	background-color: rgba(0,0,0,0);
+	border: none;
+	color: #81858a;
+	border: 2px solid #efefef;
+}
+
+.lessonControls button.lessonNext{
+	background-color: #ef5f49;
+	border: none;
+	color: white;
+}
+
+.lessonInterfaceRight{
+	width: 60%;
+	height: 100%;
+	background-color:#CBE8F6;
+}
+
+
+
+
+
+
+
+
+/*links*/
+a:link {
+    color: inherit;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: inherit;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: inherit;
+	text-decoration: none;
+}

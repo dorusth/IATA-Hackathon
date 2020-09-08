@@ -1,0 +1,108 @@
+data = {
+	"modules":[
+		{
+			"module": "Module 1",
+			"title":"Overview of the Air Transportation Industry",
+			"lessons":{
+				"lesson1":{
+					"title":"1.1  System Components and World Aviation Organizations",
+					"overview":"The International Civil Aviation Organization (ICAO) is a specialized branch of the United Nations (U.N.) It is based in Montreal, and has regional offices in Paris, Dakar, Cairo, Nairobi, Bangkok, Mexico City and Lima. Its membership consists of 191 nations. The International Air Transport Association (IATA) brings together approximately 240 airlines from over 118 countries (“IATA Fact Sheet”, 2013). Flights by these airlines comprise more than 84 percent of all international air traffic. The mission of IATA is to “represent, lead and serve the airline industry”. IATA has its headquarters in Montreal, an executive office in Geneva and regional offices in Miami and Singapore.IATA ensures that people, freight and mail can move around the vast global airline network as easily as if they were on a single airline in a single country. In addition, IATA helps to ensure that Members’ airplanes can operate safely, securely, efficiently and economically under clearly defined rules. IATA provides a useful means for governments to work with airlines and draw on their experience and expertise. Working standards for the aviation industry are developed within IATA. In fostering safe and efficient air transport, IATA serves the stated policies of most of the world’s governments.",
+					"chapters":[
+						{
+							"chapterNr":"1.1.1 ",
+							"title":"The Air Transportation System",
+							"content":[
+								"In 1903, just over one hundred years ago, the Wright brothers flew about 300 meters in a small open airplane. On July 25th, 1909, Louis Bleriot became the first person to fly across the English Channel. The first few passenger aircraft used grassy or dirt airfields to facilitate take off and landings. Facilities that served as airports were introduced in 1909, but it was not until after World War II that world governments started investing in the development and construction of landing areas. On November 5th,1911, thousands of people showed up in Pasadena, California to witness the arrival of Calbraith Rodgers after a 4-day flight across the United States. Rodgers made 69 stops along the way and was followed by a special train carrying spare parts. He made 16 crash landings. Rodgers’ trip was sponsored by Armour Meat Packing Company to promote “VIn Fiz”, a soft drink. Rodgers received $5 for each mile from Armour for a total of $21,605. During World War I more powerful engines were developed. As a result military aircraft became twice as fast as the pre-war aircraft. In addition, the increase in engine power made possible construction of larger aircraft. With the end of the war thousands of military airplanes were refurbished for civil use. In several European countries, such as Germany, France, and Great Britain, almost 20 small passenger airlines were created using bomber planes. During the 1920’s, scheduled commercial air services were introduced in Africa, Australia, Japan, Mexico and most South American countries. ",
+
+								"After successfully building a floatplane together with Commander George Conrad Westerveldt, William Boeing founded a new aircraft company bearing his name in 1916. The US Post Office began the first regularly scheduled airmail service on May 15th, 1918 between New York and Washington. In 1919, a US Navy Curtiss seaplane landed in Lisbon. This was the first successful crossing of the Atlantic. In 1927 Charles Lindbergh became the first person make a solo non-stop crossing of the Atlantic. The flight lasted 33 hours and 30 minutes. On March 20th, 1933 United Airline began flying the new Boeing 247. The Boeing was the first all metal monoplane using a stressed skin. The Boeing 247 had a cruising speed of 155 mph with a range of 485 miles. It could carry 10 passengers. In 1935, Douglas Aircraft began manufacturing the DC-3 which could carry 21 passengers. Its capacity revolutionized the industry assuring its profitability. The last DC-3 was produced in 1948 and nearly 70 years later some DC-3’s are still flying. On May 20th, 1939, Pan Am began regularly scheduled air service across the Atlantic with Boeing 314 flying boats. Pan Am soon cut the flight time to 27 hours by flying via the North Atlantic, weather permitting. Over the course of the war the US army developed what was in effect the largest airline in the world. It consisted of 25,000 pilots, flying 11,000 transport planes. They flew over 28 million miles. The mainstays of the transportation command were C-47’s and C-54’s, military versions of the DC-3 and DC-4.",
+
+								"Douglas Aircraft introduced the DC-6 in 1946 as a derivative of the DC-4. It used the same wings but had more powerful engines and a longer fuselage. The DC-6 could seat 52 passengers. The Federal Airport Act of 1946 encouraged the need for civil-use airports and their further development as a unit of airports that were administered by Civil Aeronautics Administration. The subsequent year saw the tremendous growth of the industry and expansion of airports across the world. Improvements in air traffic management. On July 27th, 1949, De Havilland unveiled the DH-106 Comet aircraft. The plane was a 36 passenger jet aircraft. Its cruising speed was 490 MPH. The Comet service was cut short after a number of them crashed in the late 50’s. On July 15th, 1954, Boeing unveiled the “707” prototype. Its maiden flight lasted 90 minutes. The 707 was the first western build jet to be a commercial success. While De Havilland worked on investigating and redesigning the aircraft and Boeing continued development of “707”, Russian manufacturer Tupolev launched the TU-104 which became the first successful jet airliner and the only one in service between 1956 and 1958. Boeing 707 entered transatlantic service 1958, it was the first year that more passengers travelled by air across the Atlantic ocean than by ship. Over 3,000 707’s were sold by Boeing.",
+
+								"Modernization of navigation became possible with the Airways Modernization Act of 1957 and the Federal Aviation Agency (FAA) in 1958. On February 9th, 1969 the first Boeing 747 took off on a test flight. The initial version of the plane was 231 feet long and weighed 710,000 lbs when fully loaded. The initial B747 was designed to carry 374 passengers over 5,700 miles. By that year, aviation business had grown exponentially that resulted in flight delays and congestion at airports that disrupted the normal flow of air travel business. The Airport and Airway Acts of 1970 ensured funding that supported the modernization of air transport systems, airports and the development of modern infrastructure. This followed amendments in 1976 providing additional plans for airport expansion and new services. Air Cargo Deregulation Act followed that same year, along with the airline Deregulation Act in 1978. The Airbus 300B was unveiled on October 28th, 1972. Airbus was a multilateral venture of British, Dutch, French, German and Spanish companies and was funded by their respective governments. It provided the first serious challenge to US dominance in commercial aviation. The years following demonstrated unprecedented growth and prosperity in the aviation industry, until the terrorist attacks on the United States on September 11, 2001 that involved four commercial airlines and used on suicide attack missions. This followed a strict revision of security measures globally. ",
+
+								"Aviation and Transportation Security Act of 2001 and Homeland Security Act of 2002 were signed into laws as a result (Young and Wells, 2011). By 2003 Airbus had garnered over 50% of the market for commercial aircraft. The continuous increase of air transport needs created demand for new aircraft. More efficient and sustainable aircraft were introduced to meet air transportation needs. These needs were met with the development of new composite material, new engines and other industry innovations. This saw the introduction of popular new aircraft such as the Airbus A380, the world’s largest passenger aircraft in terms of seat count that went into production in 2004. The Boeing 787 Dreamliner took advantage of new composite materials by creating a cabin that would increase passenger comfort; the aircraft went into production in 2007. The Boeing B747-8I, the largest B747 aircraft, was introduced in 2005. The aircraft’s new design included new wings, stretched fuselage, and new engines. The airplane has changed our way of life. International travel – once possible only for heads of state, diplomats, the powerful and the wealthy – is now available to tourists around the globe. Executives can fly to far-flung branches in a few hours, paving the way for international conglomerates. Perishable foods, machine parts, and consumer goods can be produced in regions where labor costs are low and quickly transported to other areas of the world where they are in demand. ",
+
+								"Just as highways were developed to improve land transportation, air routes were developed to improve air transportation. Just as traffic police and traffic lights were developed to prevent collisions on the roads, air traffic controllers and navigation systems were developed to prevent collisions in the air. Just as bus terminals were built to get passengers to the vehicles, airports were built to get passengers to the planes. Just as regulations were developed to ensure the safety of people travelling on the roads and prevent disputes among competing companies, regulations have been developed to ensure safety in the air and prevent disputes among airlines. A complex system of interdependent organizations and international regulations has grown to guarantee the safe passage of passengers and cargo to destinations around the world. A system is a group of components that work together as a unified whole. If one component changes in some way, the other components must also change so that the system continues to function effectively. If any one component fails to work properly, the whole system will be affected. "
+							]
+
+						},
+						{
+							"chapterNr":"1.1.2 ",
+							"title":"World aviation organisation",
+							"content":[
+								"The International Civil Aviation Organization (ICAO) is a specialized branch of the United Nations (U.N.) It is based in Montreal, and has regional offices in Paris, Dakar, Cairo, Nairobi, Bangkok, Mexico City and Lima. Its membership consists of 191 nations. <br> The International Air Transport Association (IATA) brings together approximately 240 airlines from over 118 countries (“IATA Fact Sheet”, 2013). Flights by these airlines comprise more than 84 percent of all international air traffic. The mission of IATA is to “represent, lead and serve the airline industry”. IATA has its headquarters in Montreal, an executive office in Geneva and regional offices in Miami and Singapore. <br> IATA ensures that people, freight and mail can move around the vast global airline network as easily as if they were on a single airline in a single country. In addition, IATA helps to ensure that Members’ airplanes can operate safely, securely, efficiently and economically under clearly defined rules. IATA provides a useful means for governments to work with airlines and draw on their experience and expertise. Working standards for the aviation industry are developed within IATA. In fostering safe and efficient air transport, IATA serves the stated policies of most of the world’s governments."
+							]
+						},
+						{
+							"chapterNr":"1.1.3 ",
+							"title":"Other air transport industry",
+							"content":[
+								"Other Air Transport industry related organizations include: <br> •  Air Transport Action Group (ATAG) <br>•  International Federation of Airline Pilots Association (IFALPA) <br> <b>ATAG<b>  <br>The Air Transport Action Group (ATAG) is a diverse association of over 50 members that represent all segments of the commercial air transport industry to create a single voice. ATAG’s mission reflects the need of creating common understating and positioning among members on air transport industry matters by providing specialized and constructive advice to the industry and the world governments. <br><b>IFALPA</b><br> The International Federation of Airline Pilots Association (IFALPA) represents and promotes the role of professional pilots worldwide. IFALPA includes 100 member organizations globally and works closely with other regulators to promote efficient and safe air transport operations."
+							]
+						}
+					]
+
+				}
+			}
+		}
+	],
+	"user":{
+		"name":"Mark"
+	},
+	"lessonSelect":[
+		{
+			"lesson":"1.1: ",
+			"title":"System Components and World Aviation Organizations",
+			"chapters":[
+				{
+					"chapter":"1.1.1: ",
+					"title":"The Air Transportation System"
+				},
+				{
+					"chapter":"1.1.2: ",
+					"title":"World Aviation Organizations"
+				},
+				{
+					"chapter":"1.1.3: ",
+					"title":"Other Air Transport Industry Organizations"
+				}
+			]
+		},
+		{
+			"lesson":"1.2: ",
+			"title":"Air Navigation Services and Civil Aviation Authorities",
+			"chapters":[
+				{
+					"chapter":"1.2.1: ",
+					"title":"Air Navigation Services"
+				},
+				{
+					"chapter":"1.2.2: ",
+					"title":"Civil Aviation Authorities"
+				},
+				{
+					"chapter":"1.2.3: ",
+					"title":"Standards and Recommended Practices"
+				}
+			]
+		},
+		{
+			"lesson":"1.3: ",
+			"title":"Air Navigation Services and Civil Aviation Authorities",
+			"chapters":[
+				{
+					"chapter":"1.3.1: ",
+					"title":"Air Navigation Services"
+				},
+				{
+					"chapter":"1.3.2: ",
+					"title":"Civil Aviation Authorities"
+				},
+				{
+					"chapter":"1.3.3: ",
+					"title":"Standards and Recommended Practices"
+				}
+			]
+		}
+	]
+}
